@@ -1,0 +1,8 @@
+public class ArraySimples {
+	public static void main (String[] args) {
+		String[] paises = {"BRASIL", "RÚSSIA", "ÍNDIA", "CHINA"};
+		
+		System.out.println(paises[0];
+		
+	}
+}
